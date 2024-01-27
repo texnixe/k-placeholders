@@ -1,1 +1,17 @@
 Title: Mægazine
+
+----
+
+Placeholders:
+
+- 
+  key: foundationDate
+  datatype: date
+  date: 2008-12-01
+  text: ""
+  value: ""
+- 
+  key: companyName
+  datatype: text
+  date: ""
+  text: Best Company Ever
